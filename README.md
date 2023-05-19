@@ -3,7 +3,7 @@ Trial
 
 Fitness tracking full stack web app using Vue js, Node js and MySQL.
 
-Attached report with all inforomation about the agile process and the functionalities of the web app.
+Attached report with all information about the agile process and the functionalities of the web app.
 
 Credits to: 
 1. Seif El-Tahtawy https://github.com/SeifTahtawy
